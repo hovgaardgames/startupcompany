@@ -17,3 +17,8 @@
 
  * [C] Database Component
  * [C] Backend Component
+
+# Payment Gateway Module
+
+ * [C] Backend Component
+ * [M] API Client Module
