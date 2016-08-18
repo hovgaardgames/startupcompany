@@ -1,23 +1,23 @@
 # Websites
 
-## Static Website
-
-Tier: 1
+## Static Website (T1)
 
  * [M] Web Frontend Module
 
  
-## Simple Blog Website
-
-Tier: 1
+## Simple Blog Website (T1)
 
 * [P] Static Website
 * [M] SEO Module
 
-## CMS Website
-
-Tier: 1
+## CMS Website (T1)
 
 * [P] Static Website
 * [M] Authentication Module
 * [M] Content Management Module
+
+## Shop Website (T2)
+* [P] Static Website
+* [M] Content Management Module
+* [M] SEO Module
+* [M] Payment Gateway Module
