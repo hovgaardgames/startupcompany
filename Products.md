@@ -2,8 +2,8 @@
 
 ## Static Website
 
- * [C] UI Component
- * [C] Web Design Component
+ * [M] Web Frontend Module
+
  
 ## Simple Blog Website
 
