@@ -8,5 +8,5 @@
 * UI
 * Web Backend
 * Database
-
+* Encryption 
 
