@@ -1,13 +1,12 @@
-# SEO Module
-
- * [M] Web Frontend Module
- * [C] UI Component
- 
 # Web Frontend Module
 
  * [C] UI Component
  * [C] Web Design Component
 
+# SEO Module
+ * [M] Web Frontend Module
+ * [C] UI Component
+ 
 # Authentication Module
 
  * [C] Database Component
@@ -17,4 +16,4 @@
 # Content Management Module
 
  * [C] Database Component
- * [C] Web Backend Component
+ * [C] Backend Component
