@@ -17,7 +17,6 @@
 * [M] Content Management Module
 
 ## Shop Website (T2)
-* [P] Static Website
-* [M] Content Management Module
+* [P] CMS Website
 * [M] SEO Module
 * [M] Payment Gateway Module
