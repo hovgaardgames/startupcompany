@@ -3,6 +3,11 @@
  * [C] UI Component
  * [C] Web Design Component
 
+# Web Backend Module
+
+ * [C] Backend Component
+ * [C] Internet Component
+
 # SEO Module
  * [M] Web Frontend Module
  * [C] UI Component
@@ -16,9 +21,14 @@
 # Content Management Module
 
  * [C] Database Component
- * [C] Backend Component
+ * [C] Web Backend Component
 
+# API Client Module
+
+ * [M] Web Backend Module
+ * [C] Internet Component
+ 
 # Payment Gateway Module
 
- * [C] Backend Component
+ * [M] Web Backend Module
  * [M] API Client Module
