@@ -26,7 +26,7 @@
 # API Client Module
 
  * [M] Web Backend Module
- * [C] Internet Component
+ * [C] Network Component
  
 # Payment Gateway Module
 
