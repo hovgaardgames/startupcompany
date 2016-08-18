@@ -6,7 +6,8 @@
 # Developer Components
 
 * UI
-* Web Backend
+* Backend
+* Internet
 * Database
 * Encryption 
 
