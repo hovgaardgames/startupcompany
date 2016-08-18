@@ -7,7 +7,7 @@
 
 * UI
 * Backend
-* Internet
+* Network
 * Database
 * Encryption 
 
