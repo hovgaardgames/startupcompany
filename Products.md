@@ -10,6 +10,8 @@
 * [P] Static Website
 * [M] SEO Module
 
+-----------------------------------------------------
+
 ## CMS Website (T2)
 
 * [P] Static Website
@@ -25,3 +27,12 @@
 * [P] Simple Blog Website
 * [M] Content Management Module
 * [M] SEO Module
+ 
+-----------------------------------------------------
+
+## Video Playback Website (T3)
+* [P] CMS Website
+* [M] Video Playback Module
+* [M] Storage Module
+
+ 
