@@ -10,7 +10,7 @@
 * [P] Static Website
 * [M] SEO Module
 
-## CMS Website (T1)
+## CMS Website (T2)
 
 * [P] Static Website
 * [M] Authentication Module
