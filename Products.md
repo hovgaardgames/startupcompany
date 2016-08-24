@@ -20,3 +20,8 @@
 * [P] CMS Website
 * [M] SEO Module
 * [M] Payment Gateway Module
+
+## Advanced Blog Website (T2)
+* [P] Simple Blog Website
+* [M] Content Management Module
+* [M] SEO Module
