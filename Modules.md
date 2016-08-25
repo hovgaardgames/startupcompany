@@ -32,3 +32,9 @@
 
  * [M] Web Backend Module
  * [M] API Client Module
+
+# Video Playback Module
+
+ * [M] Web Frontend Module
+ * [M] Web Backend Module
+ * [C] Video Component
