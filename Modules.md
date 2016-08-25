@@ -42,3 +42,11 @@
 # Storage Module
 * [C] Filesystem Component
 * [C] Backend Component
+
+# Email Module
+* [C] SMTP Component
+* [C] Backend Component
+
+# Web Localization Module
+* [C] i18n Component
+* [C] Web Frontend Component
