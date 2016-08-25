@@ -38,5 +38,5 @@
 ## Advanced CMS Website (T3)
 * [P] CMS Website
 * [M] Email Module
-* [M] Localization Module
+* [M] Web Localization Module
 * [M] Search Module
