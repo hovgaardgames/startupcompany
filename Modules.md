@@ -41,4 +41,4 @@
 
 # Storage Module
 * [C] Filesystem Component
-* [C] Backend Module
+* [C] Backend Component
