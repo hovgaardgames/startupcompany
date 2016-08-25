@@ -38,3 +38,7 @@
  * [M] Web Frontend Module
  * [M] Web Backend Module
  * [C] Video Component
+
+# Storage Module
+* [C] Filesystem Component
+* [C] Backend Module
