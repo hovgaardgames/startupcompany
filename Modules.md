@@ -50,3 +50,8 @@
 # Web Localization Module
 * [C] i18n Component
 * [C] Web Frontend Component
+
+# Search Module
+* [C] Database Component
+* [C] Search Algorithm Component
+* [C] Backend Module
