@@ -1,4 +1,4 @@
-# Startup Company - Bugs and Issues
+# Developer Tycoon - Bugs and Issues
 
 Public repository for managing bugs and issues using Github Issues.
 
