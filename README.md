@@ -1,4 +1,4 @@
-# Startup Company - Bugs and Issues
+# Startup Company
 
 Public repository for hosting documentation.
 
